@@ -9,3 +9,6 @@ All credit goes to the creator/s of this file: https://github.com/snowpackjs/ast
 2. Go to build folder 
 3. Add the Astro.tmbundle file to your favorite editor/IDE that supports Textmate bundles
 4. Enjoy syntax highlighting
+
+### Webstorm
+-> https://www.jetbrains.com/help/webstorm/tutorial-using-textmate-bundles.html
